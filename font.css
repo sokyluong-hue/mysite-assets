@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MJ Hustle';
+  src: url(https://raw.githubusercontent.com/sokyluong-hue/mysite-assets/main/fonts/MJ-TheHustle.woff2) format('woff2');
+  font-display: swap;
+}
+
+html body * {
+  font-family: 'MJ Hustle' !important;
+}
